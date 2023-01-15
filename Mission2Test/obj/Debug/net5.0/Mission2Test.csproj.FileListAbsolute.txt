@@ -1,0 +1,16 @@
+/Users/colehardy/Projects/Mission2Test/Mission2Test/bin/Debug/net5.0/Mission2Test
+/Users/colehardy/Projects/Mission2Test/Mission2Test/bin/Debug/net5.0/Mission2Test.deps.json
+/Users/colehardy/Projects/Mission2Test/Mission2Test/bin/Debug/net5.0/Mission2Test.runtimeconfig.json
+/Users/colehardy/Projects/Mission2Test/Mission2Test/bin/Debug/net5.0/Mission2Test.runtimeconfig.dev.json
+/Users/colehardy/Projects/Mission2Test/Mission2Test/bin/Debug/net5.0/Mission2Test.dll
+/Users/colehardy/Projects/Mission2Test/Mission2Test/bin/Debug/net5.0/Mission2Test.pdb
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.csproj.AssemblyReference.cache
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.AssemblyInfoInputs.cache
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.AssemblyInfo.cs
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.csproj.CoreCompileInputs.cache
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.dll
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/refint/Mission2Test.dll
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.pdb
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/Mission2Test.genruntimeconfig.cache
+/Users/colehardy/Projects/Mission2Test/Mission2Test/obj/Debug/net5.0/ref/Mission2Test.dll
